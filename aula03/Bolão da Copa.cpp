@@ -112,7 +112,7 @@ int main() {
     string nome1, nome2;
 
     cout << "==============================\n";
-    cout << " BOLAO DA COPA 2026 - C++ \n";
+    cout << " BOLAO DA COPA 2026 \n";
     cout << "==============================\n";
     cout << " 10pts = placar exato \n";
     cout << " 5pts = acertou vencedor \n";
